@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MiLogLlamadas</string>
+    <string name="llamadas">Llamadas</string>
+    <string name="mostrar_llamadas">Mostrar Log Llamadas</string>
+    <string name="entrada">Llamada de entrada</string>
+    <string name="salida">Llamada de salida</string>
+    <string name="perdida">Llanada perdida</string>
+    <string name="tipo"></string>
+    <string name="etiqueta_numero">Numero:</string>
+    <string name="etiqueta_fecha">Fecha:</string>
+    <string name="etiqueta_tipo">Tipo:</string>
+    <string name="etiqueta_duracion">Duración:</string>
+
+</resources>
